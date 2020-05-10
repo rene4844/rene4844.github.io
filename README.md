@@ -5,6 +5,6 @@ testeintrag 1
 
 Link zu: [pilzkurse](https://www.pilzkurse-thurgau.ch)
 
-
+[Bild](Geocache.jpg)
 
 
