@@ -3,7 +3,7 @@
 
 testeintrag 1
 
-Link zu: https://www.pilzkurse-thurgau.ch
+Link zu: [pilzkurse](https://www.pilzkurse-thurgau.ch)
 
 
 
